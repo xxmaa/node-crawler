@@ -76,11 +76,3 @@ async.series(func,function(err, results){
         else console.log('文件写出成功');
     });
 });
-
-    
-   
-
-
-
-
-
